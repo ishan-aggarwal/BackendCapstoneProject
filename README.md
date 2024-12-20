@@ -21,6 +21,10 @@ Below is the list of Spring Boot projects currently available in the repository:
 1. **[Achieve Dependency Injection Using @Qualifier Annotation](./achieve-di-using-qualifier-annotation)**
     - Learn how to leverage the `@Qualifier` annotation to resolve bean ambiguity in Spring Boot applications.
     - Topics covered: Bean injection, `@Qualifier` usage, and application context management.
+2. **[Understanding MVC Pattern](./understanding-mvc-pattern)**
+    - Understand the Model-View-Controller (MVC) pattern by implementing `GetOrderById` and `GetAllOrders` APIs.
+    - Topics covered: MVC architecture, controller methods, and API implementation.
+
 
 ## How to Use
 
