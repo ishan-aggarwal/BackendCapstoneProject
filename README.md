@@ -24,6 +24,10 @@ Below is the list of Spring Boot projects currently available in the repository:
 2. **[Understanding MVC Pattern](./understanding-mvc-pattern)**
     - Understand the Model-View-Controller (MVC) pattern by implementing `GetOrderById` and `GetAllOrders` APIs.
     - Topics covered: MVC architecture, controller methods, and API implementation.
+3. **[JWT Token Using Redis](./jwt-token-using-redis)**
+    - Implement JWT token management using Redis to enhance security and performance.
+    - Topics covered: JWT authentication, Redis integration, and token lifecycle management.
+
 
 
 ## How to Use
